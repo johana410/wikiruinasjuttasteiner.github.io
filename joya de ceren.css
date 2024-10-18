@@ -1,0 +1,22 @@
+img{
+    height: 100px;
+    width: 200px;
+    border-radius: 20%;
+}
+.messi{
+    right: 1000px;
+}
+.texto {
+    text-align:center;
+    width: 100%;
+    height: 30%;
+
+}
+.mes{
+    left: 1000px;
+}
+.logo{
+    border-radius: 100%;
+    width: 20%;
+    height: 10%;
+}
